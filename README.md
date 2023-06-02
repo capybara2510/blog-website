@@ -1,5 +1,6 @@
 # blog-website
 Description:
+
 Welcome to the Blog Website repository! This project provides a robust and dynamic platform for creating and sharing blog content, leveraging the power of EJS templating, Node.js, and npm. With a user-friendly interface, this blog website empowers you to publish captivating articles and engage with your audience.
 
 Key Features:
