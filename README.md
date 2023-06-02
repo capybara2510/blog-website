@@ -3,6 +3,7 @@ Description:
 Welcome to the Blog Website repository! This project provides a robust and dynamic platform for creating and sharing blog content, leveraging the power of EJS templating, Node.js, and npm. With a user-friendly interface, this blog website empowers you to publish captivating articles and engage with your audience.
 
 Key Features:
+
 EJS Templating: The project utilizes the EJS (Embedded JavaScript) templating engine, allowing for the efficient generation of dynamic HTML content for blog posts, layouts, and reusable components.
 
 Node.js Backend: With Node.js as the backend technology, the blog website benefits from its event-driven architecture, providing a scalable and efficient environment for handling data, managing requests, and powering the website's functionality.
