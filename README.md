@@ -11,7 +11,7 @@ npm Packages: Leveraging the extensive npm ecosystem, the repository incorporate
 
 Instructions:
 Clone or download the repository to access the project files.
-Install the necessary dependencies by running "npm install" in the project directory.
+Install the necessary nodemodules by running "npm install" in the project directory.
 Configure the project by updating the database connection settings, authentication options, and any other desired configurations based on the project's specific requirements.
 Create blog posts using the EJS templating system, customizing the layout, styling, and content to suit your preferences or branding.
 Run the application using "nodemon app.js" and access the blog website through a web browser on localhost:3000.
